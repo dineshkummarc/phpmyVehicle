@@ -1,11 +1,10 @@
-# CodeIgnitor 3.2 Login Register Dashboard CRUD Operations
+# phpmyVehicle
 
 CodeIgnitor 3.2 based CRUD application, used to role based User Login, Registration, Dashboard and CRUD for Manage Customers, Manage Vehicles. Advanced Bootstrap 4.0 based UI for Admin Dashboard (AdminLTE). <br>
 
 ##  CodeIgnitor
 
 CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
-
 
 **Purpose :**
 
@@ -26,7 +25,6 @@ For every website, we need some sort of Rebust admin panel to monitor over the c
 * ###  <a href="https://getbootstrap.com/"> Bootstrap Framework </a>
 * ###  <a href="https://paypal.com/"> Paypal </a>
 * ###  <a href="https://webespire.com"> Webespire Consulting </a>
-
 
 ### Database
 
