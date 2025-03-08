@@ -49,6 +49,7 @@ class Login extends CI_Controller
      */
     public function loginMe()
     {
+        try{
         $this->load->library('form_validation');
         
         $this->form_validation->set_rules('email', 'Email', 'required|valid_email|max_length[128]|trim');
@@ -89,6 +90,7 @@ class Login extends CI_Controller
                 $this->login_model->lastLogin($loginInfo);
                 
                 redirect('/dashboard');
+        
             }
             else
             {
@@ -97,6 +99,10 @@ class Login extends CI_Controller
                 $this->index();
             }
         }
+    }
+    catch(Exception $e){
+        echo $e;
+    }
     }
 
     /**
