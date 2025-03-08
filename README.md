@@ -1,4 +1,4 @@
-# CodeIgnitor 3.2 Login Register Dashboard CRUD Operations
+# phpmyVehicle
 
 CodeIgnitor 3.2 based CRUD application, used to role based User Login, Registration, Dashboard and CRUD for Manage Customers, Manage Vehicles. Advanced Bootstrap 4.0 based UI for Admin Dashboard (AdminLTE). <br>
 
@@ -36,7 +36,7 @@ Go to .htaccess and update base path of directory name.
 
 **System Administrator Account :**
 
-### Login for Admin:  <br> <b>Url</b>- http://localhost/yourprojectname/login </br> <b>Admin User Email</b>- admin@example.com <br>  <b>Password</b>- 123456  <br>
+### Login for Admin:  <br> <b>Url</b>- http://localhost/yourprojectname/login </br> <b>Admin User Email</b>- admin@example.com <br>  <b>Password</b>- 111111  <br>
 
 Manager and Employee Login also there- 
 
